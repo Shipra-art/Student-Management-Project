@@ -1,1 +1,1 @@
-# Student-Management-Project
+# StudentProject 
